@@ -1,6 +1,6 @@
 [
     {
-        "id": "b726351484024961918590bc14a7557b",
+        "id": "20eec6f1e5ef49298901916cc4f4fe32",
         "platform": "AtCoder",
         "title": "MC Digital Programming Contest 2024\uff08AtCoder Heuristic Contest 031\uff09",
         "url": "https://atcoder.jp/contests/ahc031",
@@ -8,7 +8,7 @@
         "duration": 0
     },
     {
-        "id": "0b3d5895a88e4082ad5d32464b9a14cb",
+        "id": "60b47f4d21e7462eb633702328852b1c",
         "platform": "AtCoder",
         "title": "UNIQUE VISION Programming Contest 2024 Spring(AtCoder Beginner Contest 346)",
         "url": "https://atcoder.jp/contests/abc346",
@@ -16,7 +16,7 @@
         "duration": 6000
     },
     {
-        "id": "d7dbfecdb0254b09b4f3a091816ebdf1",
+        "id": "0f28ed6dfeec4265af90be0b925532a8",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 175",
         "url": "https://atcoder.jp/contests/arc175",
@@ -24,7 +24,7 @@
         "duration": 7200
     },
     {
-        "id": "3be3962b14c4428fa78f400083d09f2e",
+        "id": "6bbe38fe66cf45fcaf45acd12c4d0ca6",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 347",
         "url": "https://atcoder.jp/contests/abc347",
@@ -32,7 +32,7 @@
         "duration": 6000
     },
     {
-        "id": "817a20b9cc6c4ad688d2bf4a3160e790",
+        "id": "bcd3603ebfaf4e24938c937ee71fa170",
         "platform": "AtCoder",
         "title": "AtCoder Grand Contest 066",
         "url": "https://atcoder.jp/contests/agc066",
@@ -40,7 +40,7 @@
         "duration": 10800
     },
     {
-        "id": "8acaa48088e24e3694a817140b7aa9a5",
+        "id": "f9a6b8baaef34129ae62067419492ccd",
         "platform": "AtCoder",
         "title": "AtCoder Heuristic Contest 032",
         "url": "https://atcoder.jp/contests/ahc032",
@@ -48,7 +48,7 @@
         "duration": 14400
     },
     {
-        "id": "2e9d404a697344df8948d5e5ab9cf93d",
+        "id": "ebcbbe9d95b8404aa9c11b408353b95b",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 349",
         "url": "https://atcoder.jp/contests/abc349",
@@ -56,15 +56,15 @@
         "duration": 6000
     },
     {
-        "id": "a79d8b5238734163ae4f37a2369a5460",
+        "id": "b466189c4da4450cb85bfd006ba1e38a",
         "platform": "CodeChef",
-        "title": "Starters 126",
+        "title": "Starters 126 (Rated till 6 Stars)",
         "url": "https://www.codechef.com/START126",
         "start_time": "2024-03-20T20:00:00+05:30",
         "duration": 7200
     },
     {
-        "id": "7509207801ab4fe6991c82922de20104",
+        "id": "a182089e21eb45558b145bec168be379",
         "platform": "CodeChef",
         "title": "Starters 127",
         "url": "https://www.codechef.com/START127",
@@ -72,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "e599ce3eaa514d4d8d7d93a12a8d7b17",
+        "id": "3b94206254094748813c66cb55e4e277",
         "platform": "CodeChef",
         "title": "Starters 128",
         "url": "https://www.codechef.com/START128",
@@ -80,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "e02fbb0af8bc4c9e8140ffdb9df2dd25",
+        "id": "542b28fbbc104d61b007dcd48134112e",
         "platform": "CodeChef",
         "title": "Starters 129",
         "url": "https://www.codechef.com/START129",
@@ -88,7 +88,7 @@
         "duration": 7200
     },
     {
-        "id": "e3a898420d1e4cbc9b5f57835f1b8ba3",
+        "id": "30d2f77f79044b36981dedb50babffb7",
         "platform": "CodeChef",
         "title": "Starters 130",
         "url": "https://www.codechef.com/START130",
@@ -96,7 +96,7 @@
         "duration": 7200
     },
     {
-        "id": "47617e4102634b9897eaec09df1aa501",
+        "id": "17aebb34399e496b92ccd0782bf0df41",
         "platform": "CodeChef",
         "title": "Starters 131",
         "url": "https://www.codechef.com/START131",
@@ -104,7 +104,7 @@
         "duration": 7200
     },
     {
-        "id": "3be95dc536514b9aa2ca2e8435467e31",
+        "id": "6c9d3391f2754de08bc566d5c5481c59",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/1942",
@@ -112,23 +112,23 @@
         "duration": 10800
     },
     {
-        "id": "e4eb5e3596de433bb965ed6f61d0da01",
+        "id": "497e78da113e4fb895f99f5b172db75c",
         "platform": "Codeforces",
-        "title": "Codeforces Round (Div. 2)",
+        "title": "European Championship 2024 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+        "url": "https://codeforces.com/contests/1949",
+        "start_time": "2024-03-24T15:30:00+05:30",
+        "duration": 18000
+    },
+    {
+        "id": "55231b8dcf2c4ec1b6877e0ffa079a23",
+        "platform": "Codeforces",
+        "title": "Codeforces Round 936 (Div. 2)",
         "url": "https://codeforces.com/contests/1946",
         "start_time": "2024-03-21T20:05:00+05:30",
         "duration": 7200
     },
     {
-        "id": "68a49d9b6d524003b2f720e59120b501",
-        "platform": "Codeforces",
-        "title": "Codeforces Round 935 (Div. 3)",
-        "url": "https://codeforces.com/contests/1945",
-        "start_time": "2024-03-19T13:35:00+05:30",
-        "duration": 8100
-    },
-    {
-        "id": "0131175f5f2243799624258fba95e106",
+        "id": "af87f240b3c04a60896dbeca5382b722",
         "platform": "GeeksforGeeks",
         "title": "Job-A-Thon 31 Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-31-hiring-challenge",
@@ -136,7 +136,7 @@
         "duration": 9000
     },
     {
-        "id": "11bfb6c2bff34eb0a06d1093c8ce8258",
+        "id": "a881830aed944c7a909fb7c7ddb9d3f2",
         "platform": "GeeksforGeeks",
         "title": "GFG Weekly Coding Contest - 147",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-147",
@@ -144,7 +144,7 @@
         "duration": 5400
     },
     {
-        "id": "446bd71440374933aa478f597163437f",
+        "id": "f2207577117e468cb1a60fb98aea0ca9",
         "platform": "LeetCode",
         "title": "Biweekly Contest 127",
         "url": "https://leetcode.com/contest/biweekly-contest-127",
@@ -152,7 +152,7 @@
         "duration": 5400
     },
     {
-        "id": "bcf440eccdbc4bec845978ffc86db170",
+        "id": "95d40c0da7c5470289913e5ab53d4717",
         "platform": "LeetCode",
         "title": "Weekly Contest 390",
         "url": "https://leetcode.com/contest/weekly-contest-390",
