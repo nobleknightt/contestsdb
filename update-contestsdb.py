@@ -293,3 +293,16 @@ with (Path(__file__).parent / "contests").open("w") as f:
 
 with (Path(__file__).parent / "contests.json").open("w") as f:
     json.dump(contests, f, indent=4)
+
+with (Path(__file__).parent / "test.md").open("r") as f:
+    readme_content = f.readlines()
+
+weekday, month, day, year, hours, minutes, ampm = datetime.now().strftime("%a %b %d %Y %I %M %p").split()
+
+day   = day.lstrip("0")
+hours = hours.lstrip("0")
+
+readme_content[4] = f'*Contest DB last updated at {weekday}, {month} {day}, {year} {hours}:{minutes} {ampm}*  \n'
+
+with (Path(__file__).parent / "test.md").open("w") as f:
+    f.writelines(readme_content)
