@@ -304,5 +304,7 @@ hours = hours.lstrip("0")
 
 readme_content[4] = f'*Contest DB last updated at {weekday}, {month} {day}, {year} {hours}:{minutes} {ampm}*  \n'
 
-with (Path(__file__).parent / "test.md").open("w") as f:
+README = Path(__file__).parent / "README.md"
+
+with README.open("w") as f:
     f.writelines(readme_content)
