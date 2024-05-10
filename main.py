@@ -9,6 +9,7 @@ import requests
 
 from bs4 import BeautifulSoup
 
+SECONDS_PER_DAY = 24 * 60 * 60
 
 def fetch_atcoder_contests() -> list[dict]:
 
@@ -53,7 +54,7 @@ def fetch_atcoder_contests() -> list[dict]:
                 "title": title,
                 "url": url,
                 "start_time": start_time.isoformat(),
-                "duration": duration.seconds
+                "duration": duration.seconds + duration.days * SECONDS_PER_DAY
             })
 
     return contests
@@ -108,7 +109,7 @@ def fetch_codechef_contests() -> list[dict]:
                 "title": title,
                 "url": url,
                 "start_time": start_time.isoformat(),
-                "duration": duration.seconds
+                "duration": duration.seconds + duration.days * SECONDS_PER_DAY
             })
 
     return contests
@@ -157,7 +158,7 @@ def fetch_codeforces_contests() -> list[dict]:
                 "title": title,
                 "url": url,
                 "start_time": start_time.isoformat(),
-                "duration": duration.seconds
+                "duration": duration.seconds + duration.days * SECONDS_PER_DAY
             })
 
     return contests
@@ -219,7 +220,7 @@ def fetch_geeksforgeeks_contests() -> list[dict]:
                 "title": title,
                 "url": url,
                 "start_time": start_time.isoformat(),
-                "duration": duration.seconds
+                "duration": duration.seconds + duration.days * SECONDS_PER_DAY
             })
 
     return contests
@@ -275,7 +276,7 @@ def fetch_leetcode_contests() -> list[dict]:
                 "title": title,
                 "url": url,
                 "start_time": start_time.isoformat(),
-                "duration": duration.seconds
+                "duration": duration.seconds + duration.days * SECONDS_PER_DAY
             })
 
     return contests
