@@ -1,6 +1,6 @@
 [
     {
-        "id": "d61c54e1d0fb4713baf6b3e5f356bfbe",
+        "id": "f9a8d0bd8c2a4c2381ac6bc300c89404",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 356",
         "url": "https://atcoder.jp/contests/abc356",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "efc500f23b8c444087a744c0e05a8dec",
+        "id": "3c04e98c71c94edaaf9b90e6e4414ff4",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 179",
         "url": "https://atcoder.jp/contests/arc179",
@@ -16,7 +16,7 @@
         "duration": 7200
     },
     {
-        "id": "b9a74d934c80483a9764930336d74662",
+        "id": "1c6592f3e4a243679d54aff8ac74aadc",
         "platform": "AtCoder",
         "title": "SuntoryProgrammingContest2024\uff08AtCoder Beginner Contest 357\uff09",
         "url": "https://atcoder.jp/contests/abc357",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "877d8796cb444cc084a253cd9092346b",
+        "id": "7d23439576c64fffb1f67e313b3cb12d",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 358",
         "url": "https://atcoder.jp/contests/abc358",
@@ -32,7 +32,7 @@
         "duration": 6000
     },
     {
-        "id": "cff5d24598504aac92b9987558eca0a9",
+        "id": "2bd88f60673747efa2fd2409ac205438",
         "platform": "AtCoder",
         "title": "Toyota Programming Contest 2024#6\uff08AtCoder Heuristic Contest 034\uff09",
         "url": "https://atcoder.jp/contests/ahc034",
@@ -40,7 +40,7 @@
         "duration": 14400
     },
     {
-        "id": "4b7d029e02dd47cc90d4c7ec6c01d4cf",
+        "id": "0bc24c5e62964ec282706c31f07fa2af",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 180",
         "url": "https://atcoder.jp/contests/arc180",
@@ -48,7 +48,7 @@
         "duration": 7200
     },
     {
-        "id": "5ec27aa13b1540dc89072a9b046ec12a",
+        "id": "0761490e21ee45b19a621107e6265948",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 360",
         "url": "https://atcoder.jp/contests/abc360",
@@ -56,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "9dde6cad49f94c4aa5cb6a53737b1972",
+        "id": "615206076b554278ba52b04bebb5a85e",
         "platform": "AtCoder",
         "title": "Denso Create Programming Contest 2024\uff08AtCoder Beginner Contest 361\uff09",
         "url": "https://atcoder.jp/contests/abc361",
@@ -64,7 +64,7 @@
         "duration": 6000
     },
     {
-        "id": "3c671d3848b447b6b66e7e88d13e8d2f",
+        "id": "4b7b0e4c0b7b4880a858036dbe987c16",
         "platform": "CodeChef",
         "title": "Starters 137",
         "url": "https://www.codechef.com/START137",
@@ -72,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "7f0f72ad827e43bbbc466d2a3c43abd2",
+        "id": "b40cf5e04cee4169876d6faf69166752",
         "platform": "CodeChef",
         "title": "Starters 138",
         "url": "https://www.codechef.com/START138",
@@ -80,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "78774474abd4443aa9d34b660f2befe6",
+        "id": "3848e05028024d6aa734fbf88106255c",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/1983",
@@ -88,7 +88,7 @@
         "duration": 7200
     },
     {
-        "id": "dddf6b315bd54b49841060ba636cebed",
+        "id": "362f79b7dff44ea28c8704b230e8b1f4",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/1978",
@@ -96,7 +96,7 @@
         "duration": 7200
     },
     {
-        "id": "0a378df7c6384de99d3251c9950f2dbf",
+        "id": "a4496e1787424621aa66ff9f2a5a1f64",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/1979",
@@ -104,7 +104,7 @@
         "duration": 7200
     },
     {
-        "id": "473fd3bc8d104a83b95ea9c430a84250",
+        "id": "a64b02384ee84f879a4e705a743f1a8f",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 3)",
         "url": "https://codeforces.com/contests/1980",
@@ -112,7 +112,7 @@
         "duration": 8100
     },
     {
-        "id": "7088fd725f4e484098991488ddf5859d",
+        "id": "ef95a9ac29e2434990229a4d8721d1ab",
         "platform": "Codeforces",
         "title": "Codeforces Round 949 (Div. 2)",
         "url": "https://codeforces.com/contests/1981",
@@ -120,15 +120,7 @@
         "duration": 7200
     },
     {
-        "id": "5c737af8794f4ad7888bf1b9ab6beaee",
-        "platform": "Codeforces",
-        "title": "Educational Codeforces Round 166 (Rated for Div. 2)",
-        "url": "https://codeforces.com/contests/1976",
-        "start_time": "2024-05-30T20:05:00+05:30",
-        "duration": 7200
-    },
-    {
-        "id": "06bec2d957824790a04bb4c11895883b",
+        "id": "fa5d04b5d84b42cdac20ed4e44fa3d7e",
         "platform": "GeeksforGeeks",
         "title": "GFG Weekly - 157 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-157-rated-contest",
@@ -136,7 +128,7 @@
         "duration": 5400
     },
     {
-        "id": "fa7753cac7aa4ebc982edebf93c55c55",
+        "id": "f18dfac9835b4976b92a4d2a46efc82f",
         "platform": "GeeksforGeeks",
         "title": "Job-A-Thon 34 Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-34-hiring-challenge",
@@ -144,7 +136,7 @@
         "duration": 9000
     },
     {
-        "id": "cd92a367066d4e24bd9609ca93a03284",
+        "id": "51c4fbdc46f646609cc39fbdeb257091",
         "platform": "LeetCode",
         "title": "Biweekly Contest 132",
         "url": "https://leetcode.com/contest/biweekly-contest-132",
@@ -152,7 +144,7 @@
         "duration": 5400
     },
     {
-        "id": "ba402423531d4c68aed31af6112cae7e",
+        "id": "d170b921057b4e0eb0a12a206197a03f",
         "platform": "LeetCode",
         "title": "Weekly Contest 400",
         "url": "https://leetcode.com/contest/weekly-contest-400",
