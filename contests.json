@@ -1,6 +1,6 @@
 [
     {
-        "id": "ca729240f2904858ac912d0fd9a5f49a",
+        "id": "0d0b914117cf4541a4409e4c25495c1a",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 358",
         "url": "https://atcoder.jp/contests/abc358",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "1103714d2f694852ac7fb7c0cb24424f",
+        "id": "ab9c21029b744a8995bdd6496be78de8",
         "platform": "AtCoder",
         "title": "Toyota Programming Contest 2024#6\uff08AtCoder Heuristic Contest 034\uff09",
         "url": "https://atcoder.jp/contests/ahc034",
@@ -16,7 +16,7 @@
         "duration": 14400
     },
     {
-        "id": "5f99765f7d9c497e86b1565d2803dbc7",
+        "id": "2228ec6c4dd24a07a081d7bb68905002",
         "platform": "AtCoder",
         "title": "UNIQUE VISION Programming Contest 2024 Summer (AtCoder Beginner Contest 359)",
         "url": "https://atcoder.jp/contests/abc359",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "4c4c57b12cf045adb9acf1e544d96929",
+        "id": "34ba33ef4eea4e2cb7d4ee4c131e8e8d",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 180",
         "url": "https://atcoder.jp/contests/arc180",
@@ -32,7 +32,7 @@
         "duration": 7200
     },
     {
-        "id": "fa30267ad01a47aba8985b21244d20c3",
+        "id": "537e6ba5d54b439cb5cd3b71e596fff7",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 360",
         "url": "https://atcoder.jp/contests/abc360",
@@ -40,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "8a5a8bfb93d944e5b9b854664925c2a9",
+        "id": "3cb24b923fd249a5853a1f9d365927cb",
         "platform": "AtCoder",
         "title": "Denso Create Programming Contest 2024\uff08AtCoder Beginner Contest 361\uff09",
         "url": "https://atcoder.jp/contests/abc361",
@@ -48,15 +48,7 @@
         "duration": 6000
     },
     {
-        "id": "8c230aa43dba4c468f95627ba8f613d5",
-        "platform": "CodeChef",
-        "title": "Starters 138",
-        "url": "https://www.codechef.com/START138",
-        "start_time": "2024-06-12T20:00:00+05:30",
-        "duration": 7200
-    },
-    {
-        "id": "74948690ffde411ab464d199f4572d04",
+        "id": "de7071cf38ba49e98566ee92d305e9a4",
         "platform": "CodeChef",
         "title": "Starters 139",
         "url": "https://www.codechef.com/START139",
@@ -64,7 +56,15 @@
         "duration": 7200
     },
     {
-        "id": "83cfe11444634fc9bb5f03a615c11d2f",
+        "id": "fbe8d6a95f8a4eb7afaf0f45968fc3e5",
+        "platform": "CodeChef",
+        "title": "Starters 140",
+        "url": "https://www.codechef.com/START140",
+        "start_time": "2024-06-26T20:00:00+05:30",
+        "duration": 7200
+    },
+    {
+        "id": "c5b31f2436b249e09afab14efd038ad8",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/1983",
@@ -72,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "7a40be7f909b418b8d261d1da2de41ef",
+        "id": "fcf1d199dd464df48e65cce184dbdcce",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/1982",
@@ -80,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "6b33edcbbeae47aa91af168f8faead77",
+        "id": "4f441b59c2c04262bbacccec792737a0",
         "platform": "Codeforces",
         "title": "Codeforces Round 953 (Div. 2)",
         "url": "https://codeforces.com/contests/1978",
@@ -88,7 +88,7 @@
         "duration": 7200
     },
     {
-        "id": "e260b223a921406fba37d1997ce3f968",
+        "id": "e2ab71359231476a913ce7885953a6d2",
         "platform": "GeeksforGeeks",
         "title": "GFG Weekly - 159 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-159-rated-contest",
@@ -96,7 +96,7 @@
         "duration": 5400
     },
     {
-        "id": "b33ca38fa0734125b3d5ec7c173f1500",
+        "id": "3eebc61cf30845ecb4e4a1ca9929efc4",
         "platform": "GeeksforGeeks",
         "title": "Job-A-Thon 34 Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-34-hiring-challenge",
@@ -104,7 +104,7 @@
         "duration": 9000
     },
     {
-        "id": "0fd4029d7b574140bd9fad814e752251",
+        "id": "03aec5a5fe9d4ab49b78b041a9e5ff8e",
         "platform": "LeetCode",
         "title": "Biweekly Contest 133",
         "url": "https://leetcode.com/contest/biweekly-contest-133",
@@ -112,7 +112,7 @@
         "duration": 5400
     },
     {
-        "id": "4873681d6fa34770882d40a3cd838d01",
+        "id": "735ded2bc7c647cdae5f2896895d9814",
         "platform": "LeetCode",
         "title": "Weekly Contest 402",
         "url": "https://leetcode.com/contest/weekly-contest-402",
