@@ -1,14 +1,6 @@
 [
     {
-        "id": "17774713e140476ba90fc50397153715",
-        "platform": "AtCoder",
-        "title": "AtCoder Regular Contest 184",
-        "url": "https://atcoder.jp/contests/arc184",
-        "start_time": "2024-09-22T17:30:00+05:30",
-        "duration": 7200
-    },
-    {
-        "id": "db6b0d83b2fe4d7fbc9e0eb2e5454afc",
+        "id": "4b3d1c5f43d84a219ffcabf55d27f424",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 373",
         "url": "https://atcoder.jp/contests/abc373",
@@ -16,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "ebd8a3e7a9f846df80b06322a12b1292",
+        "id": "18e1ee6b708d44ce8d604daf0adbef95",
         "platform": "AtCoder",
         "title": "AtCoder Grand Contest 068",
         "url": "https://atcoder.jp/contests/agc068",
@@ -24,7 +16,7 @@
         "duration": 10800
     },
     {
-        "id": "afbad130e4a44bf2a2c556a6e9578aa2",
+        "id": "f6ab91e0201a49359f4b5b7046a3af58",
         "platform": "AtCoder",
         "title": "Toyota Programming Contest 2024#10\uff08AtCoder Heuristic Contest 038\uff09",
         "url": "https://atcoder.jp/contests/ahc038",
@@ -32,7 +24,7 @@
         "duration": 864000
     },
     {
-        "id": "e659cfdf88734aee99392103840f6f3a",
+        "id": "38362b6f9b9b4b7a8bb96c19d89711cf",
         "platform": "AtCoder",
         "title": "KEYENCE Programming Contest 2024\uff08AtCoder Beginner Contest 374\uff09",
         "url": "https://atcoder.jp/contests/abc374",
@@ -40,7 +32,7 @@
         "duration": 6000
     },
     {
-        "id": "c178169e74984d3195242a1f6e7d73f8",
+        "id": "defce3441a6845209589401cff45d3ef",
         "platform": "AtCoder",
         "title": "Panasonic Programming Contest 2024\uff08AtCoder Beginner Contest 375\uff09",
         "url": "https://atcoder.jp/contests/abc375",
@@ -48,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "0b868040934d4e3f84dc1da762cfce8a",
+        "id": "420ac796f1b848a085f627deb9c6e85b",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 376",
         "url": "https://atcoder.jp/contests/abc376",
@@ -56,7 +48,7 @@
         "duration": 6000
     },
     {
-        "id": "c4f8b4c45fbf4369b19b5170c9eb9170",
+        "id": "5f6eb557416e4782b3248a95b7574beb",
         "platform": "AtCoder",
         "title": "TOYOTA SYSTEMS Programming Contest 2024\uff08AtCoder Beginner Contest 377)",
         "url": "https://atcoder.jp/contests/abc377",
@@ -64,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "09b00f62904245a2b98942d54a43dd00",
+        "id": "b9397a6fa30f4159a268f4d2174af012",
         "platform": "AtCoder",
         "title": "The 2nd Masters Championship-qual-",
         "url": "https://atcoder.jp/contests/masters2025-qual",
@@ -72,7 +64,7 @@
         "duration": 21600
     },
     {
-        "id": "cd92a545030e45ffa1c355478f3e3a4d",
+        "id": "c52f23e899f342f08319e27eb61d3549",
         "platform": "CodeChef",
         "title": "Starters 153",
         "url": "https://www.codechef.com/START153",
@@ -80,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "f190fb68453844b0a4fbf2ba964a1e4b",
+        "id": "baf970be229d4b37966a1e21fb695ab4",
         "platform": "CodeChef",
         "title": "Starters 154",
         "url": "https://www.codechef.com/START154",
@@ -88,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "b9099745877b4914835c66fb6575ca77",
+        "id": "625be14aba664f2cb421ac6a4c4b2c5e",
         "platform": "Codeforces",
         "title": "Kotlin Heroes: Episode 11",
         "url": "https://codeforces.com/contests/2011",
@@ -96,7 +88,23 @@
         "duration": 9000
     },
     {
-        "id": "b08cda9847e643aa9053e86604e8e40f",
+        "id": "746d0bc915194e67ac80e39e5f22f593",
+        "platform": "Codeforces",
+        "title": "Codeforces Round 975 (Div. 1)",
+        "url": "https://codeforces.com/contests/2018",
+        "start_time": "2024-09-27T13:35:00+05:30",
+        "duration": 7200
+    },
+    {
+        "id": "19b7922fa4cd437392bb467e485d5ba2",
+        "platform": "Codeforces",
+        "title": "Codeforces Round 975 (Div. 2)",
+        "url": "https://codeforces.com/contests/2019",
+        "start_time": "2024-09-27T13:35:00+05:30",
+        "duration": 7200
+    },
+    {
+        "id": "841e5926ae3343fe9482de191b978def",
         "platform": "Codeforces",
         "title": "Kotlin Heroes: Practice 11",
         "url": "https://codeforces.com/contests/2012",
@@ -104,15 +112,7 @@
         "duration": 1123200
     },
     {
-        "id": "9deedfcfcf10490ca8d47eaa13b76274",
-        "platform": "GeeksforGeeks",
-        "title": "GFG Weekly - 173 [Rated Contest]",
-        "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-173-rated-contest",
-        "start_time": "2024-09-23T00:30:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "48f2fc23cc07409ea246fc5bf93f917f",
+        "id": "42fc9637f3d8402bbea8b650edd27602",
         "platform": "GeeksforGeeks",
         "title": "GFG Weekly - 174 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-174-rated-contest",
@@ -120,19 +120,19 @@
         "duration": 5400
     },
     {
-        "id": "eb2ed46cd0ab47b88d5b0df88a9881e3",
+        "id": "b591f6e392884647bf0f4dbf0d8860ce",
+        "platform": "LeetCode",
+        "title": "Weekly Contest 417",
+        "url": "https://leetcode.com/contest/weekly-contest-417",
+        "start_time": "2024-09-29T08:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "aee82d1ec3e642f48492c9941b0f0afe",
         "platform": "LeetCode",
         "title": "Biweekly Contest 140",
         "url": "https://leetcode.com/contest/biweekly-contest-140",
         "start_time": "2024-09-28T20:00:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "f965a64ea267422ab6e128876fe246cf",
-        "platform": "LeetCode",
-        "title": "Weekly Contest 416",
-        "url": "https://leetcode.com/contest/weekly-contest-416",
-        "start_time": "2024-09-22T08:00:00+05:30",
         "duration": 5400
     }
 ]
