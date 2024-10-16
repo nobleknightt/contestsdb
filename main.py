@@ -41,7 +41,7 @@ def fetch_atcoder_contests() -> list[dict]:
             </tr>
             """
 
-            title = row.contents[3].contents[5].contents[0]
+            title = row.contents[3].contents[5].contents[0].replace("\uff08", "(").replace("\uff09", ")")
             url = f"https://atcoder.jp{row.contents[3].contents[5].get('href')}"
             start_time = datetime.strptime(row.contents[1].contents[0].contents[0].contents[0], "%Y-%m-%d %H:%M:%S%z").astimezone(ZoneInfo("Asia/Kolkata"))
             hours, minutes = map(int, row.contents[5].contents[0].split(":"))
