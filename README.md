@@ -2,4 +2,4 @@
 
 Ongoing and Upcoming contests from AtCoder, CodeChef, Codeforces, LeetCode and GeeksforGeeks in JSON format
 
-*Contest DB last updated at Tue, Nov 5, 2024 3:42 AM*  
+*Contest DB last updated at Wed, Nov 6, 2024 3:42 AM*  
