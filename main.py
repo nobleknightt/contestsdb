@@ -210,8 +210,8 @@ def fetch_geeksforgeeks_contests() -> list[dict]:
 
             title = data["name"]
             url   = f"https://practice.geeksforgeeks.org/contest/{data['slug']}"
-            start_time = datetime.fromisoformat(data["start_time"]).astimezone(ZoneInfo("Asia/Kolkata"))
-            end_time   = datetime.fromisoformat(data["end_time"]).astimezone(ZoneInfo("Asia/Kolkata"))
+            start_time = datetime.fromisoformat(data["start_time"]).replace(ZoneInfo("Asia/Kolkata"))
+            end_time   = datetime.fromisoformat(data["end_time"]).replace(ZoneInfo("Asia/Kolkata"))
             duration   = end_time - start_time
 
             contests.append({                
