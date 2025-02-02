@@ -1,6 +1,6 @@
 [
     {
-        "id": "535c763fdb784cc29fd2382ef930fb48",
+        "id": "2877e02fffa348c6b140cec61ccc654b",
         "platform": "CodeChef",
         "title": "Starters 172",
         "url": "https://www.codechef.com/START172",
@@ -8,7 +8,7 @@
         "duration": 7200
     },
     {
-        "id": "e5374f40c9834f2bb3b89b6e1ce08bcf",
+        "id": "fb30668846f6438d9af34f2d25fb139f",
         "platform": "CodeChef",
         "title": "Starters 173",
         "url": "https://www.codechef.com/START173",
@@ -16,7 +16,7 @@
         "duration": 7200
     },
     {
-        "id": "b617c50635604246af19ded7add9cfc6",
+        "id": "c23d3ed1def14570835a6e2057166b08",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2064",
@@ -24,7 +24,15 @@
         "duration": 7200
     },
     {
-        "id": "46d60f2b82f942778c77dde3c0c25cfe",
+        "id": "db4ca7defb914256933d9ce9b1db5564",
+        "platform": "Codeforces",
+        "title": "Codeforces Round (Div. 4)",
+        "url": "https://codeforces.com/contests/2065",
+        "start_time": "2025-02-09T20:05:00+05:30",
+        "duration": 8100
+    },
+    {
+        "id": "abe5eacdf91e4b179f7d947e240669d0",
         "platform": "Codeforces",
         "title": "Codeforces Round 1002 (Div. 2)",
         "url": "https://codeforces.com/contests/2059",
@@ -32,7 +40,7 @@
         "duration": 7200
     },
     {
-        "id": "9e3e0f10e2b84e10ae54e88ccc0f6313",
+        "id": "08ad4947e44d450fbc45c8ca0a9d5363",
         "platform": "GeeksforGeeks",
         "title": "GfG Weekly - 192 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-192-rated-contest",
@@ -40,7 +48,7 @@
         "duration": 5400
     },
     {
-        "id": "36f8714f95b04840acf8e7ee39990dcf",
+        "id": "ec18fe1519ab4998a75c56c41d2c5aeb",
         "platform": "GeeksforGeeks",
         "title": "GfG Weekly - 193 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-193-rated-contest",
@@ -48,7 +56,7 @@
         "duration": 5400
     },
     {
-        "id": "4423f342f522460492aec2aa3d1c8286",
+        "id": "d9862d3712384e94bb9ad2547391cd09",
         "platform": "GeeksforGeeks",
         "title": "GfG Weekly - 194 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-194-rated-contest",
@@ -56,7 +64,7 @@
         "duration": 5400
     },
     {
-        "id": "c351a3eb0e6448dabffa93eabb380751",
+        "id": "4a67fe11bad44a1285e642ce579f5144",
         "platform": "GeeksforGeeks",
         "title": "Job-A-thon 42  Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-42-hiring-challenge",
@@ -64,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "af5ba617567e462fa09091e814e18fb7",
+        "id": "be2b415761ca4ba9a3a7960cb9c17766",
         "platform": "GeeksforGeeks",
         "title": "GfG Weekly - 195 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-195-rated-contest",
@@ -72,7 +80,7 @@
         "duration": 5400
     },
     {
-        "id": "b9f9a6567b2c405d8e93183b30372f6c",
+        "id": "fec27c2f18cf483b9b849235208b1c75",
         "platform": "GeeksforGeeks",
         "title": "GfG Weekly - 196 [Rated Contest]",
         "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-196-rated-contest",
@@ -80,19 +88,19 @@
         "duration": 5400
     },
     {
-        "id": "25e7ee68727c4dfcb08001276fc8e16d",
+        "id": "13b58e28362d4b75bcc6cab66a384d58",
+        "platform": "LeetCode",
+        "title": "Biweekly Contest 150",
+        "url": "https://leetcode.com/contest/biweekly-contest-150",
+        "start_time": "2025-02-15T20:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "477a147fe11944168214f3612dcefd4f",
         "platform": "LeetCode",
         "title": "Weekly Contest 435",
         "url": "https://leetcode.com/contest/weekly-contest-435",
         "start_time": "2025-02-02T08:00:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "933c3957562a4630bdc5ad30dbd0074f",
-        "platform": "LeetCode",
-        "title": "Biweekly Contest 149",
-        "url": "https://leetcode.com/contest/biweekly-contest-149",
-        "start_time": "2025-02-01T20:00:00+05:30",
         "duration": 5400
     }
 ]
