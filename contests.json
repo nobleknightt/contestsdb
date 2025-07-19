@@ -1,6 +1,6 @@
 [
     {
-        "id": "518728071b194b34b34e118726887a99",
+        "id": "bfed0f9eb99a45f38586c9be90b4f440",
         "platform": "AtCoder",
         "title": "Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner Contest 415)",
         "url": "https://atcoder.jp/contests/abc415",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "0d2f33ec36384f6aba4e75875648a59f",
+        "id": "2f924f1d798449e4b81d568f6a98564a",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 202 (Div. 1)",
         "url": "https://atcoder.jp/contests/arc202",
@@ -16,7 +16,7 @@
         "duration": 9000
     },
     {
-        "id": "af983546e11848d3b28a99c61e810af7",
+        "id": "cb2bc14e0a5d4158ae66c502389d342e",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 416",
         "url": "https://atcoder.jp/contests/abc416",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "299b5a3e23cf466d9692e966dbc7e0cc",
+        "id": "05fcbb399ecc497fa0e583c5beb2441f",
         "platform": "AtCoder",
         "title": "THIRD Programming Contest 2025 Summer(AtCoder Heuristic Contest 051)",
         "url": "https://atcoder.jp/contests/ahc051",
@@ -32,7 +32,7 @@
         "duration": 864000
     },
     {
-        "id": "7b55466aa7cc4683abec9cfb23aeedac",
+        "id": "1cc9aeb3931d48778ecd72ad1b35c02a",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 417",
         "url": "https://atcoder.jp/contests/abc417",
@@ -40,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "fb7ff68ffd924bd29d92a58183a0ce43",
+        "id": "0b206cf36e9241009fc5fccefaeb8adc",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 203 (Div. 2)",
         "url": "https://atcoder.jp/contests/arc203",
@@ -48,7 +48,7 @@
         "duration": 7200
     },
     {
-        "id": "fd0892ad454c46e6b81a66362bd96aab",
+        "id": "ee50411ed21e4277b371e1cfb4f34035",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 418",
         "url": "https://atcoder.jp/contests/abc418",
@@ -56,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "13660a559a0a4c0c95ec16b2ef4515d1",
+        "id": "05714fad12784e51be5c743757e2a788",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 419",
         "url": "https://atcoder.jp/contests/abc419",
@@ -64,23 +64,7 @@
         "duration": 6000
     },
     {
-        "id": "6795066b9c5444d9ada7247da42931d3",
-        "platform": "CodeChef",
-        "title": "Weekend Dev Challenge 07: React Projects",
-        "url": "https://www.codechef.com/DEVWEEKEND07",
-        "start_time": "2025-07-19T00:00:00+05:30",
-        "duration": 86400
-    },
-    {
-        "id": "e95ebd8f3c5e4698940acf0e1cf49803",
-        "platform": "CodeChef",
-        "title": "Starters 196",
-        "url": "https://www.codechef.com/START196",
-        "start_time": "2025-07-23T20:00:00+05:30",
-        "duration": 7200
-    },
-    {
-        "id": "552889b884444d1181b15df95d5b4295",
+        "id": "e840f3a907234672a910dad6ff156d65",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2127",
@@ -88,7 +72,7 @@
         "duration": 9000
     },
     {
-        "id": "983275226b3d4fcbad6eb6842f0ad9b3",
+        "id": "a77041a88d04446996fdd0dd531b3d5a",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2129",
@@ -96,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "6ac3269a517b4a89b12232b91510f68e",
+        "id": "4a5280e416ca4160a118c1c96d655872",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2130",
@@ -104,7 +88,7 @@
         "duration": 7200
     },
     {
-        "id": "fbd21f4fc89d4eb39f3890808ecbfd6d",
+        "id": "243e75dcbf664c4bab6f8ff48ce68ac5",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2128",
@@ -112,7 +96,7 @@
         "duration": 7200
     },
     {
-        "id": "0ac58404b12b414a80d3a8d160c91bad",
+        "id": "a8984cfa36954be896997862ccf9cdf2",
         "platform": "Codeforces",
         "title": "Educational Codeforces Round 181 (Rated for Div. 2)",
         "url": "https://codeforces.com/contests/2125",
@@ -120,7 +104,7 @@
         "duration": 7200
     },
     {
-        "id": "ffc15e12acc841959599513bc86eb3d0",
+        "id": "aaef9cc05c3447e68e00abda1e938a61",
         "platform": "Codeforces",
         "title": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2122",
@@ -128,7 +112,7 @@
         "duration": 8100
     },
     {
-        "id": "b8fbf4de74f844c387ab7b7a0807ae66",
+        "id": "bad6ec29645d4753b7c82ff56ea5b6a3",
         "platform": "GeeksforGeeks",
         "title": "Quantitative Aptitude (Part 1)",
         "url": "https://practice.geeksforgeeks.org/contest/quantitative-aptitude-part-1",
@@ -136,7 +120,7 @@
         "duration": 172108800
     },
     {
-        "id": "e26e8a6469d54506bad90ecbf44f034e",
+        "id": "c0be809926e04acd8c88a1fbb6441022",
         "platform": "GeeksforGeeks",
         "title": "Job-A-thon 46 Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-46-hiring-challenge",
@@ -144,7 +128,7 @@
         "duration": 9000
     },
     {
-        "id": "ca3a13be8da24d51b60c5c76f53469fd",
+        "id": "e3af10d14a36436283226a3ab67c92ea",
         "platform": "LeetCode",
         "title": "Weekly Contest 459",
         "url": "https://leetcode.com/contest/weekly-contest-459",
@@ -152,7 +136,7 @@
         "duration": 5400
     },
     {
-        "id": "2f2b7d932f9e4abaa59b3960ab5bb5a4",
+        "id": "87b6954cd2244768b574d7cbc65d463a",
         "platform": "LeetCode",
         "title": "Biweekly Contest 161",
         "url": "https://leetcode.com/contest/biweekly-contest-161",
