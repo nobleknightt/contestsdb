@@ -1,6 +1,6 @@
 [
     {
-        "id": "be706ac3117b46958900b083c951d84c",
+        "id": "d11a35b508234e69b380ac75a54a20b6",
         "platform": "AtCoder",
         "title": "THIRD Programming Contest 2025 Summer(AtCoder Heuristic Contest 051)",
         "url": "https://atcoder.jp/contests/ahc051",
@@ -8,7 +8,7 @@
         "duration": 864000
     },
     {
-        "id": "d132cb35233b4fbab463c172df2845d1",
+        "id": "91a595accb034a928464886ca1a179de",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 417",
         "url": "https://atcoder.jp/contests/abc417",
@@ -16,7 +16,7 @@
         "duration": 6000
     },
     {
-        "id": "723e34f379f1455e994ca07ea8716802",
+        "id": "67429dd735a14eaca658122287a6176a",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 203 (Div. 2)",
         "url": "https://atcoder.jp/contests/arc203",
@@ -24,7 +24,7 @@
         "duration": 7200
     },
     {
-        "id": "8f5fc85577ef42e9813565f5aa95db4f",
+        "id": "f97534bd34f34b4f93e08f7b6e4cbeed",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 418",
         "url": "https://atcoder.jp/contests/abc418",
@@ -32,7 +32,7 @@
         "duration": 6000
     },
     {
-        "id": "675b41cc9b704d5485f2866e4b529214",
+        "id": "1f6d0a75093042998cb20cc07842ba18",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 419",
         "url": "https://atcoder.jp/contests/abc419",
@@ -40,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "e2d159ecca5c4b31bab9daa7ef6635ac",
+        "id": "c27b504c77b54db492d2eabc1d8ba644",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 204 (Div. 1)",
         "url": "https://atcoder.jp/contests/arc204",
@@ -48,7 +48,7 @@
         "duration": 9000
     },
     {
-        "id": "4f8c358869da4daaaf987eac399f4901",
+        "id": "a6573b2892bc4b8686cc8f30791ad904",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 420",
         "url": "https://atcoder.jp/contests/abc420",
@@ -56,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "9fec6ad5dbb14a6a965c8eca6a3979de",
+        "id": "450c849158d64343930f06652c80ac74",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 422",
         "url": "https://atcoder.jp/contests/abc422",
@@ -64,7 +64,7 @@
         "duration": 6000
     },
     {
-        "id": "67ac9b80b70b4ca9ba717c3564a834eb",
+        "id": "272702b4eca647378d7830f322d65047",
         "platform": "Codeforces",
         "title": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2127",
@@ -72,23 +72,7 @@
         "duration": 10800
     },
     {
-        "id": "6b73246382d1494d904c953cdd70966b",
-        "platform": "Codeforces",
-        "title": "Codeforces Round 1040 (Div. 1)",
-        "url": "https://codeforces.com/contests/2129",
-        "start_time": "2025-07-31T20:05:00+05:30",
-        "duration": 10800
-    },
-    {
-        "id": "c4d74537556f455e87ba706408ea11dd",
-        "platform": "Codeforces",
-        "title": "Codeforces Round 1040 (Div. 2)",
-        "url": "https://codeforces.com/contests/2130",
-        "start_time": "2025-07-31T20:05:00+05:30",
-        "duration": 10800
-    },
-    {
-        "id": "f3ed4866a8d045199ec4ab190c209a9b",
+        "id": "9cebdabb51e04297b62162ee9d8b7c68",
         "platform": "GeeksforGeeks",
         "title": "Quantitative Aptitude (Part 1)",
         "url": "https://practice.geeksforgeeks.org/contest/quantitative-aptitude-part-1",
@@ -96,7 +80,7 @@
         "duration": 172108800
     },
     {
-        "id": "8e8d3f02fadf4b48a5e0ce0f265dda59",
+        "id": "07d5cd9ea7114270b3679e3624e4d278",
         "platform": "GeeksforGeeks",
         "title": "Quantitative Aptitude (Part 2)",
         "url": "https://practice.geeksforgeeks.org/contest/quantitative-aptitude-part-2",
@@ -104,7 +88,7 @@
         "duration": 140313600
     },
     {
-        "id": "541ece5c772a454dac40ddaca2558c26",
+        "id": "a034de1271104208b675e3558f3863c0",
         "platform": "GeeksforGeeks",
         "title": "Quantitative Aptitude (Part 2)",
         "url": "https://practice.geeksforgeeks.org/contest/quantitative-aptitude-part-2-0820",
@@ -112,7 +96,7 @@
         "duration": 140313600
     },
     {
-        "id": "d341d4091da047199ac5d3a4ad74aa05",
+        "id": "948a9054b95446ffa7dd6ac1a4a743ca",
         "platform": "GeeksforGeeks",
         "title": "Quantitative Aptitude (Part 3)",
         "url": "https://practice.geeksforgeeks.org/contest/quantitative-aptitude-part-3",
@@ -120,7 +104,7 @@
         "duration": 139708860
     },
     {
-        "id": "b62bea51f8d1462894afbe85f0f78593",
+        "id": "92acc05c0c3d4cfc8783871db5af516a",
         "platform": "GeeksforGeeks",
         "title": "Job-A-thon 46 Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-46-hiring-challenge",
@@ -128,7 +112,7 @@
         "duration": 9000
     },
     {
-        "id": "efc3376617944be5b584111ceb83707b",
+        "id": "a31a1182e7af443a8d187b1ba4671a47",
         "platform": "LeetCode",
         "title": "Weekly Contest 461",
         "url": "https://leetcode.com/contest/weekly-contest-461",
@@ -136,7 +120,7 @@
         "duration": 5400
     },
     {
-        "id": "0805cfed6d80475a8d9eb59a5c61c947",
+        "id": "4ccd73f9466044d499032829fd07c877",
         "platform": "LeetCode",
         "title": "Biweekly Contest 162",
         "url": "https://leetcode.com/contest/biweekly-contest-162",
