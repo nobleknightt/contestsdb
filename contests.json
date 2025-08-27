@@ -1,6 +1,6 @@
 [
     {
-        "id": "bdd6f22d10ff4d81b845319eff13fed8",
+        "id": "eecc8baabf60476da91879d661b7e39c",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 421",
         "url": "https://atcoder.jp/contests/abc421",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "8059eb3b72bf4132a04487713db6bacf",
+        "id": "8111f96bc66e49a4aaf4e2c6c0dbfd74",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 205 (Div. 2)",
         "url": "https://atcoder.jp/contests/arc205",
@@ -16,7 +16,7 @@
         "duration": 7200
     },
     {
-        "id": "1812cd1458704874a3b4ea1c337d49a7",
+        "id": "ffe6766426654e8ca00b8d007833cdb4",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 422",
         "url": "https://atcoder.jp/contests/abc422",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "043a423208da4515a26be85e15a31894",
+        "id": "d329ec0b8ca04a348e26983829cef72f",
         "platform": "AtCoder",
         "title": "12th Asprova Programming Contest(AtCoder Heuristic Contest 053)",
         "url": "https://atcoder.jp/contests/ahc053",
@@ -32,7 +32,7 @@
         "duration": 14400
     },
     {
-        "id": "3b7dfb15a3f1455796d6a429df95b997",
+        "id": "fd9eb2df52ed47d4ba1419e046c8197f",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 423",
         "url": "https://atcoder.jp/contests/abc423",
@@ -40,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "a8dafa23535542a280b8a13a0c437385",
+        "id": "333583e388634f8a879a6bf01b8cca93",
         "platform": "AtCoder",
         "title": "ALGO ARTIS Programming Contest 2025 Summer(AtCoder Heuristic Contest 054)",
         "url": "https://atcoder.jp/contests/ahc054",
@@ -48,7 +48,7 @@
         "duration": 864000
     },
     {
-        "id": "1c0f2bf8c6e941b092b90ea8d1da01bc",
+        "id": "8cb54f814f294f19bad3cc00363edc48",
         "platform": "AtCoder",
         "title": "AtCoder \u00d7 Engineer Guild(AtCoder Beginner Contest 424)",
         "url": "https://atcoder.jp/contests/abc424",
@@ -56,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "609af3cfffed48b084f1b5a8f075cc39",
+        "id": "5fac948ef2b94e5fb8b6e0020a7e10cb",
         "platform": "AtCoder",
         "title": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
         "url": "https://atcoder.jp/contests/abc425",
@@ -64,7 +64,7 @@
         "duration": 6000
     },
     {
-        "id": "04030376500f42f988e8eaf571d24704",
+        "id": "df8c97725d5e4ebc96e9ab49098039de",
         "platform": "AtCoder",
         "title": "AtCoder Grand Contest 073",
         "url": "https://atcoder.jp/contests/agc073",
@@ -72,7 +72,31 @@
         "duration": 10800
     },
     {
-        "id": "27bf5910e20442f5a9a62f4874d873fe",
+        "id": "1b91cd9a744746a692bd9e1d3c582ecc",
+        "platform": "AtCoder",
+        "title": "AtCoder Regular Contest 207 (Div.1)",
+        "url": "https://atcoder.jp/contests/arc207",
+        "start_time": "2025-10-05T17:30:00+05:30",
+        "duration": 9000
+    },
+    {
+        "id": "41f2ac163267497890553d2a8cb90092",
+        "platform": "Codeforces",
+        "title": "Codeforces Round (Div. 1)",
+        "url": "https://codeforces.com/contests/2138",
+        "start_time": "2025-09-08T20:05:00+05:30",
+        "duration": 10800
+    },
+    {
+        "id": "e85ca48053db49a6bf56366bb0782181",
+        "platform": "Codeforces",
+        "title": "Codeforces Round (Div. 2)",
+        "url": "https://codeforces.com/contests/2139",
+        "start_time": "2025-09-08T20:05:00+05:30",
+        "duration": 10800
+    },
+    {
+        "id": "b7052a5eead54922ada2f5ff0d509983",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 3)",
         "url": "https://codeforces.com/contests/2137",
@@ -80,7 +104,7 @@
         "duration": 8100
     },
     {
-        "id": "752408d8982c4cf9bee6030775ed0b74",
+        "id": "fa42da92505248b1b43e8f43634c03ce",
         "platform": "Codeforces",
         "title": "Codeforces Round 1046 (Div. 1)",
         "url": "https://codeforces.com/contests/2135",
@@ -88,7 +112,7 @@
         "duration": 10800
     },
     {
-        "id": "70559d1fea1c405fb1709518eb805d61",
+        "id": "db01dfad96f04e23b06c4a8c6f6734cb",
         "platform": "Codeforces",
         "title": "Codeforces Round 1046 (Div. 2)",
         "url": "https://codeforces.com/contests/2136",
@@ -96,15 +120,7 @@
         "duration": 10800
     },
     {
-        "id": "d88d9445c8d64bfb875b45611622b6a4",
-        "platform": "Codeforces",
-        "title": "Codeforces Round 1045 (Div. 2)",
-        "url": "https://codeforces.com/contests/2134",
-        "start_time": "2025-08-26T20:05:00+05:30",
-        "duration": 7200
-    },
-    {
-        "id": "0f2797a89fa941d3a4e429445ce59d2c",
+        "id": "6225f26ef2034a3f9191b8e3aaf43d4f",
         "platform": "GeeksforGeeks",
         "title": "Job-A-thon 47 Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-47-hiring-challenge-1304",
@@ -112,7 +128,7 @@
         "duration": 9000
     },
     {
-        "id": "ed87df767e7841fe98ebddf05c079683",
+        "id": "8137b874b931412f86e60a4d6eb82733",
         "platform": "GeeksforGeeks",
         "title": "Logical Reasoning (Part 3)",
         "url": "https://practice.geeksforgeeks.org/contest/logical-reasoning-part-3",
@@ -120,7 +136,7 @@
         "duration": 421286400
     },
     {
-        "id": "91eef7df5ba24b22a15f4f5944ca06f1",
+        "id": "72574a282bd4437b84a22098d8171dd2",
         "platform": "LeetCode",
         "title": "Weekly Contest 465",
         "url": "https://leetcode.com/contest/weekly-contest-465",
@@ -128,7 +144,7 @@
         "duration": 5400
     },
     {
-        "id": "f9b524b35498424d8b407513d31f90d9",
+        "id": "bce44eca8533478088c13a8b42ea6b51",
         "platform": "LeetCode",
         "title": "Biweekly Contest 164",
         "url": "https://leetcode.com/contest/biweekly-contest-164",
