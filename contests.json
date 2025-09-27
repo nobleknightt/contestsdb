@@ -1,6 +1,6 @@
 [
     {
-        "id": "0d37e717e47a4b1a83195e40357d8714",
+        "id": "bf50a3f5b84849bb9fb19f2d3ee9429d",
         "platform": "AtCoder",
         "title": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
         "url": "https://atcoder.jp/contests/abc425",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "debe0bb9c63c43179eae0a9c5ae02e30",
+        "id": "85389a5917414498a462251609eab302",
         "platform": "AtCoder",
         "title": "AtCoder Grand Contest 073",
         "url": "https://atcoder.jp/contests/agc073",
@@ -16,7 +16,7 @@
         "duration": 10800
     },
     {
-        "id": "45d9f57a995c4279b7cf4bc098232ff1",
+        "id": "c1df2494520242a5ba274b6ff768aaa5",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 426",
         "url": "https://atcoder.jp/contests/abc426",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "a59c56d24eef4aed94c01c9664603567",
+        "id": "bf0950b599604f6cbd466b309c5893ad",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 207 (Div.1)",
         "url": "https://atcoder.jp/contests/arc207",
@@ -32,7 +32,7 @@
         "duration": 9000
     },
     {
-        "id": "915e5a5edf6149b989c9b9615c5bf6ed",
+        "id": "477e1a2773b5417b812cc216060abbfd",
         "platform": "AtCoder",
         "title": "Panasonic Programming Contest 2025(AtCoder Beginner Contest 427)",
         "url": "https://atcoder.jp/contests/abc427",
@@ -40,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "5c46faa480734a3ebaa8dc0d34cb74ce",
+        "id": "6f48c884679a4c7fb6024f9572c06b23",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 428",
         "url": "https://atcoder.jp/contests/abc428",
@@ -48,7 +48,7 @@
         "duration": 6000
     },
     {
-        "id": "0c83cc2bbc564ed89ef6c28c9e0d42c0",
+        "id": "964c0e0b8b244c6ebafc8562114bfbfb",
         "platform": "AtCoder",
         "title": "RECRUIT Nihonbashi Half Marathon 2025 Autumn (AtCoder Heuristic Contest 055)",
         "url": "https://atcoder.jp/contests/ahc055",
@@ -56,7 +56,7 @@
         "duration": 14400
     },
     {
-        "id": "85ae42dc20f549f1aa1d18b28f720828",
+        "id": "54cbcb6f203e45af992a959831315c39",
         "platform": "AtCoder",
         "title": "Polaris.AI Programming Contest 2025(AtCoder Beginner Contest 429)",
         "url": "https://atcoder.jp/contests/abc429",
@@ -64,7 +64,7 @@
         "duration": 6000
     },
     {
-        "id": "6057fccfeac14934a8d8c880500b4079",
+        "id": "3aa6fdad05cb4676b73144a2763e818e",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2154",
@@ -72,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "e4be7cd87bba423ea4fd09eae3516a0d",
+        "id": "2be08edbcec4429f9d3d5fc6db882ec1",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2153",
@@ -80,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "bf570b0fdd964d47822e7090290cfd73",
+        "id": "11ab5698952744c5af0d36e990014fd3",
         "platform": "Codeforces",
         "title": "Educational Codeforces Round 183 (Rated for Div. 2)",
         "url": "https://codeforces.com/contests/2145",
@@ -88,15 +88,15 @@
         "duration": 7200
     },
     {
-        "id": "ef4e6dc868ea4bd58cfeaae0004549e9",
+        "id": "4523132bde4947c39123afa20f13cceb",
         "platform": "Codeforces",
-        "title": "Codeforces Round (Div. 1 + Div. 2)",
+        "title": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2152",
         "start_time": "2025-10-03T20:05:00+05:30",
         "duration": 10800
     },
     {
-        "id": "e2c1f6fc28d747eaae7099eab71ad75f",
+        "id": "4bb37330d738451cb7a2789d0de462d1",
         "platform": "GeeksforGeeks",
         "title": "Job-A-thon 47 Hiring Challenge",
         "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-47-hiring-challenge-1304",
@@ -104,7 +104,7 @@
         "duration": 9000
     },
     {
-        "id": "0f56ddda005941dab28d1cb9677928ae",
+        "id": "3f3b2b084fb040d183489bc737d67766",
         "platform": "LeetCode",
         "title": "Biweekly Contest 167",
         "url": "https://leetcode.com/contest/biweekly-contest-167",
@@ -112,7 +112,7 @@
         "duration": 5400
     },
     {
-        "id": "384e939d98674d2f927e537d909559a0",
+        "id": "20e1d95793dd4936a6d13d8ddb0dc66f",
         "platform": "LeetCode",
         "title": "Weekly Contest 470",
         "url": "https://leetcode.com/contest/weekly-contest-470",
@@ -120,7 +120,7 @@
         "duration": 5400
     },
     {
-        "id": "58650b815eac4879a4685c20393a416c",
+        "id": "2e7eb78d563c4be5a49d4397a37e87d3",
         "platform": "LeetCode",
         "title": "Weekly Contest 469",
         "url": "https://leetcode.com/contest/weekly-contest-469",
@@ -128,7 +128,7 @@
         "duration": 5400
     },
     {
-        "id": "34b494ad7bed4037b4fa3316d7ad7478",
+        "id": "390884b2f7a24bac9d5cd0bc8d1d8271",
         "platform": "LeetCode",
         "title": "Biweekly Contest 166",
         "url": "https://leetcode.com/contest/biweekly-contest-166",
