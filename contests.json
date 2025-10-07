@@ -1,6 +1,6 @@
 [
     {
-        "id": "0102d5f0b4534b698807e2af7f7e172f",
+        "id": "692750d10a0a4190825bae185286e977",
         "platform": "AtCoder",
         "title": "Panasonic Programming Contest 2025(AtCoder Beginner Contest 427)",
         "url": "https://atcoder.jp/contests/abc427",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "870859b83b774fd89814a22083767c39",
+        "id": "e968b589470d415b94dcf7ac04bdcafd",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 208 (Div. 2)",
         "url": "https://atcoder.jp/contests/arc208",
@@ -16,7 +16,7 @@
         "duration": 7200
     },
     {
-        "id": "157dc997c5664544bbc137a99dd85f31",
+        "id": "b29975daf9424f35924bb8df87f16a49",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 428",
         "url": "https://atcoder.jp/contests/abc428",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "349431f9de5d417ca0a1813773d9cb9f",
+        "id": "0f8bc27a18734c8ca682dfb66e552b78",
         "platform": "AtCoder",
         "title": "RECRUIT Nihonbashi Half Marathon 2025 Autumn (AtCoder Heuristic Contest 055)",
         "url": "https://atcoder.jp/contests/ahc055",
@@ -32,7 +32,7 @@
         "duration": 14400
     },
     {
-        "id": "aa8307f031184be4a2bfad631aac03ea",
+        "id": "934425b26d9142a89ccf8b34f11b2076",
         "platform": "AtCoder",
         "title": "Polaris.AI Programming Contest 2025(AtCoder Beginner Contest 429)",
         "url": "https://atcoder.jp/contests/abc429",
@@ -40,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "9c2389544d624273afecdadc38416538",
+        "id": "99f25fa677a14c2091495b5a8236376d",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2156",
@@ -48,7 +48,7 @@
         "duration": 7200
     },
     {
-        "id": "1109160f3e8a4f7a892c8f93088e1f34",
+        "id": "5a800c23edf147cc8598b06efd229357",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2154",
@@ -56,7 +56,7 @@
         "duration": 7200
     },
     {
-        "id": "6b41dca218e24175909e46628108a305",
+        "id": "ad7ce607a86c4001ba0e47b1160206c9",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2159",
@@ -64,7 +64,7 @@
         "duration": 9000
     },
     {
-        "id": "3392ebde361743b69735364699a4019d",
+        "id": "2bfc389f9fe9498382ed0707ac3ca9dd",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2160",
@@ -72,7 +72,7 @@
         "duration": 9000
     },
     {
-        "id": "d52f91ee2aa04132aa43b8533f3485d1",
+        "id": "b3cf52e5284145f6b1a02dc4ba4c7dda",
         "platform": "Codeforces",
         "title": "Codeforces Round 1057 (Div. 2)",
         "url": "https://codeforces.com/contests/2153",
@@ -80,15 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "1b6af1fb70684db8a1975ab4d70c921c",
-        "platform": "Codeforces",
-        "title": "Educational Codeforces Round 183 (Rated for Div. 2)",
-        "url": "https://codeforces.com/contests/2145",
-        "start_time": "2025-10-06T20:05:00+05:30",
-        "duration": 7200
-    },
-    {
-        "id": "e9f850700c3849d699df66f0b98ed2e8",
+        "id": "ee0912f84cff4ce3ab56e1a344442149",
         "platform": "LeetCode",
         "title": "Weekly Contest 471",
         "url": "https://leetcode.com/contest/weekly-contest-471",
@@ -96,7 +88,7 @@
         "duration": 5400
     },
     {
-        "id": "f905eede32c247c1a91d573d5064d8fa",
+        "id": "26f84ccd8395476c8c5a7af2eccde597",
         "platform": "LeetCode",
         "title": "Biweekly Contest 167",
         "url": "https://leetcode.com/contest/biweekly-contest-167",
