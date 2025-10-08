@@ -1,6 +1,6 @@
 [
     {
-        "id": "692750d10a0a4190825bae185286e977",
+        "id": "9bbf84dfacc14d3b859c7ba92e8d6681",
         "platform": "AtCoder",
         "title": "Panasonic Programming Contest 2025(AtCoder Beginner Contest 427)",
         "url": "https://atcoder.jp/contests/abc427",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "e968b589470d415b94dcf7ac04bdcafd",
+        "id": "31011f5971434ee4b17c17de9aefb82e",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 208 (Div. 2)",
         "url": "https://atcoder.jp/contests/arc208",
@@ -16,7 +16,7 @@
         "duration": 7200
     },
     {
-        "id": "b29975daf9424f35924bb8df87f16a49",
+        "id": "54494ca5890d4480a465123b42f2b235",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 428",
         "url": "https://atcoder.jp/contests/abc428",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "0f8bc27a18734c8ca682dfb66e552b78",
+        "id": "81373f167fac47a48dbc7a82836e3ea9",
         "platform": "AtCoder",
         "title": "RECRUIT Nihonbashi Half Marathon 2025 Autumn (AtCoder Heuristic Contest 055)",
         "url": "https://atcoder.jp/contests/ahc055",
@@ -32,7 +32,7 @@
         "duration": 14400
     },
     {
-        "id": "934425b26d9142a89ccf8b34f11b2076",
+        "id": "c1db74fe551a4da480bdcb820e6e3751",
         "platform": "AtCoder",
         "title": "Polaris.AI Programming Contest 2025(AtCoder Beginner Contest 429)",
         "url": "https://atcoder.jp/contests/abc429",
@@ -40,7 +40,23 @@
         "duration": 6000
     },
     {
-        "id": "99f25fa677a14c2091495b5a8236376d",
+        "id": "f74cbda95e7b4159b1181594c2aa5542",
+        "platform": "AtCoder",
+        "title": "FPS 24: 24 Problems on Formal Power Series",
+        "url": "https://atcoder.jp/contests/fps-24",
+        "start_time": "2025-10-26T09:30:00+05:30",
+        "duration": 18000
+    },
+    {
+        "id": "35419467f8dc4c2cbbe5852e7bbf6bbd",
+        "platform": "AtCoder",
+        "title": "HACK TO THE FUTURE 2026 (AtCoder Heuristic Contest 056)",
+        "url": "https://atcoder.jp/contests/ahc056",
+        "start_time": "2025-11-07T15:30:00+05:30",
+        "duration": 864000
+    },
+    {
+        "id": "06787557281545049557c502008d7587",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2156",
@@ -48,7 +64,7 @@
         "duration": 7200
     },
     {
-        "id": "5a800c23edf147cc8598b06efd229357",
+        "id": "9b6ab70da38c4a988559eb41b89e3217",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2154",
@@ -56,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "ad7ce607a86c4001ba0e47b1160206c9",
+        "id": "592cb68386c74ed782b510ec37556772",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2159",
@@ -64,7 +80,7 @@
         "duration": 9000
     },
     {
-        "id": "2bfc389f9fe9498382ed0707ac3ca9dd",
+        "id": "085b1da26e14455dba80b4783a08ae51",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2160",
@@ -72,7 +88,7 @@
         "duration": 9000
     },
     {
-        "id": "b3cf52e5284145f6b1a02dc4ba4c7dda",
+        "id": "1d850cb0c68f40bdb2fd27ecd956fcee",
         "platform": "Codeforces",
         "title": "Codeforces Round 1057 (Div. 2)",
         "url": "https://codeforces.com/contests/2153",
@@ -80,7 +96,7 @@
         "duration": 7200
     },
     {
-        "id": "ee0912f84cff4ce3ab56e1a344442149",
+        "id": "6e8c32ff9b7d42a1911d7b47bd1392f3",
         "platform": "LeetCode",
         "title": "Weekly Contest 471",
         "url": "https://leetcode.com/contest/weekly-contest-471",
@@ -88,7 +104,7 @@
         "duration": 5400
     },
     {
-        "id": "26f84ccd8395476c8c5a7af2eccde597",
+        "id": "9e7b451d0bd642c0bd04574286109b4b",
         "platform": "LeetCode",
         "title": "Biweekly Contest 167",
         "url": "https://leetcode.com/contest/biweekly-contest-167",
