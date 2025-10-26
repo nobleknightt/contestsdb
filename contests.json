@@ -1,14 +1,6 @@
 [
     {
-        "id": "7e20c86ae0484d70bd11e0a978881272",
-        "platform": "AtCoder",
-        "title": "Polaris.AI Programming Contest 2025(AtCoder Beginner Contest 429)",
-        "url": "https://atcoder.jp/contests/abc429",
-        "start_time": "2025-10-25T17:30:00+05:30",
-        "duration": 6000
-    },
-    {
-        "id": "e3d9add21584443d90cd38c460a9b801",
+        "id": "d8938074cf2c48099e621b00d857dc97",
         "platform": "AtCoder",
         "title": "AtCoder Grand Contest 074",
         "url": "https://atcoder.jp/contests/agc074",
@@ -16,7 +8,7 @@
         "duration": 10800
     },
     {
-        "id": "696f8ae888394de4aa385d22a7cb2e5b",
+        "id": "a576cd183df044a8b7eacbc0a89931a6",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 430",
         "url": "https://atcoder.jp/contests/abc430",
@@ -24,7 +16,7 @@
         "duration": 6000
     },
     {
-        "id": "3e63a08205ec431292bbb42ae2a387f4",
+        "id": "ceb214bbc5894b9fae7ee5400a2b8cfa",
         "platform": "AtCoder",
         "title": "FPS 24: 24 Problems on Formal Power Series",
         "url": "https://atcoder.jp/contests/fps-24",
@@ -32,7 +24,7 @@
         "duration": 18000
     },
     {
-        "id": "b6ff8ce023db44cb966cf4a5d6505590",
+        "id": "7ad4ba1086a54a188594e827f6978586",
         "platform": "AtCoder",
         "title": "HACK TO THE FUTURE 2026 (AtCoder Heuristic Contest 056)",
         "url": "https://atcoder.jp/contests/ahc056",
@@ -40,7 +32,7 @@
         "duration": 864000
     },
     {
-        "id": "5735cd26415e42929c6aca92e3bfe8ce",
+        "id": "221f4ed1af4d4076b5c2fad86cc3c305",
         "platform": "AtCoder",
         "title": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 1)",
         "url": "https://atcoder.jp/contests/stpc2025_1",
@@ -48,7 +40,7 @@
         "duration": 18000
     },
     {
-        "id": "fea0105263364c668d4e65b7b0d0163a",
+        "id": "49c5a5d473cd41c99fc26d331ea46185",
         "platform": "AtCoder",
         "title": "\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c82025 (Div. 2)",
         "url": "https://atcoder.jp/contests/stpc2025_2",
@@ -56,7 +48,7 @@
         "duration": 18000
     },
     {
-        "id": "11d82903a8244b0c9de8d65fb65c2bc9",
+        "id": "feadbc59569049018022cf51ba1155fb",
         "platform": "AtCoder",
         "title": "TOYOTA SYSTEMS Programming Contest 2025(AtCoder Beginner Contest 431)",
         "url": "https://atcoder.jp/contests/abc431",
@@ -64,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "37ed41dd42924be08bc26a0774621db7",
+        "id": "c064726c3b244f4d9e10bd8dfbb3df10",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 209 (Div. 1)",
         "url": "https://atcoder.jp/contests/arc209",
@@ -72,7 +64,7 @@
         "duration": 9000
     },
     {
-        "id": "221d59b257ca47098cc85d216f9f2ed0",
+        "id": "dfe845293915481d9b51a46477395d35",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 210",
         "url": "https://atcoder.jp/contests/arc210",
@@ -80,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "1ee3ab3346db4a81b35c6ecf5024d30f",
+        "id": "a992bd21a7d144abb4022d11be1a552f",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2165",
@@ -88,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "ec2572f10c2a4b37ade1d07962549388",
+        "id": "8f8ed154d6804f0f9da9318041eddb54",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2166",
@@ -96,7 +88,7 @@
         "duration": 7200
     },
     {
-        "id": "75de49945e57497a83f25c78b7939e7c",
+        "id": "4358b5e6d8b543f39aff06cbc00f3401",
         "platform": "Codeforces",
         "title": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2164",
@@ -104,7 +96,7 @@
         "duration": 10800
     },
     {
-        "id": "e529ac9abc3f405c9b6efafbc83be8a4",
+        "id": "2b2c4dd4972142d7ba702d51fa57ec58",
         "platform": "Codeforces",
         "title": "Pinely Round 5 (Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2161",
@@ -112,15 +104,15 @@
         "duration": 10800
     },
     {
-        "id": "b1e5a4da275246ec904793b443115e57",
+        "id": "96dafc9bd57248a7ab4756b9cc3e4ec5",
         "platform": "Codeforces",
-        "title": "Codeforces Round (Div. 4)",
+        "title": "Codeforces Round 1062 (Div. 4)",
         "url": "https://codeforces.com/contests/2167",
         "start_time": "2025-10-28T20:05:00+05:30",
         "duration": 8100
     },
     {
-        "id": "d2ce7edf7da842ec80455b98e4170000",
+        "id": "29b11ec4796746129fd8fde825bb4833",
         "platform": "LeetCode",
         "title": "Biweekly Contest 169",
         "url": "https://leetcode.com/contest/biweekly-contest-169",
@@ -128,7 +120,7 @@
         "duration": 5400
     },
     {
-        "id": "77c68814a73240abbc43a35b9f2a1be8",
+        "id": "63e0eceb42cc48ddb79a1f0115653883",
         "platform": "LeetCode",
         "title": "Weekly Contest 474",
         "url": "https://leetcode.com/contest/weekly-contest-474",
@@ -136,19 +128,11 @@
         "duration": 5400
     },
     {
-        "id": "516f7820ea4a412fb275cec859005100",
+        "id": "2d7d708b17824c1183fbfc253c2770ed",
         "platform": "LeetCode",
         "title": "Weekly Contest 473",
         "url": "https://leetcode.com/contest/weekly-contest-473",
         "start_time": "2025-10-26T08:00:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "d6d3449c45604d4f970523aaea72eca8",
-        "platform": "LeetCode",
-        "title": "Biweekly Contest 168",
-        "url": "https://leetcode.com/contest/biweekly-contest-168",
-        "start_time": "2025-10-25T20:00:00+05:30",
         "duration": 5400
     }
 ]
