@@ -1,14 +1,6 @@
 [
     {
-        "id": "0edd8f7769024b4699ba7c10397221af",
-        "platform": "AtCoder",
-        "title": "HACK TO THE FUTURE 2026 (AtCoder Heuristic Contest 056)",
-        "url": "https://atcoder.jp/contests/ahc056",
-        "start_time": "2025-11-07T15:30:00+05:30",
-        "duration": 864000
-    },
-    {
-        "id": "1091ce71641d4f02a2f27cda68616689",
+        "id": "651f03a580fd469c9ec388d0469ff0d5",
         "platform": "AtCoder",
         "title": "TOYOTA SYSTEMS Programming Contest 2025(AtCoder Beginner Contest 431)",
         "url": "https://atcoder.jp/contests/abc431",
@@ -16,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "86c5133e92494853aba2f3df68c26a0b",
+        "id": "e5615a7388474fc9a13274c68932ea4c",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 209 (Div. 1)",
         "url": "https://atcoder.jp/contests/arc209",
@@ -24,7 +16,7 @@
         "duration": 9000
     },
     {
-        "id": "5d90de083ed44a9e8ca4d90bafbbd72c",
+        "id": "41456760d3804acfbcb021a69c16b22a",
         "platform": "AtCoder",
         "title": "OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Contest 432)",
         "url": "https://atcoder.jp/contests/abc432",
@@ -32,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "d38e266bc4214707b5fe1cb3ebe46bd9",
+        "id": "2fd0b5ca15754e7e9d25f93e96b477e9",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 210",
         "url": "https://atcoder.jp/contests/arc210",
@@ -40,7 +32,7 @@
         "duration": 7200
     },
     {
-        "id": "5a6765f7e8e5446295ed186bba6a9e0e",
+        "id": "918b0b3af0644eb29dfebb74dd868b72",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 433",
         "url": "https://atcoder.jp/contests/abc433",
@@ -48,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "d6a442478c7b4392af13575553f54325",
+        "id": "70fcb26bef144962b20102c9656a33f3",
         "platform": "AtCoder",
         "title": "AtCoder Heuristic Contest 057",
         "url": "https://atcoder.jp/contests/ahc057",
@@ -56,7 +48,7 @@
         "duration": 14400
     },
     {
-        "id": "518b69bd251d4f63a312267f52a40e3b",
+        "id": "d227b13a16b54e7292723705d06ec2cd",
         "platform": "AtCoder",
         "title": "\uff33\uff4b\uff59 Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
         "url": "https://atcoder.jp/contests/abc434",
@@ -64,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "d8439b8d21214e9a95d72629c84d3015",
+        "id": "1faaf6ad30bd4c92a5857d2ec4048098",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 211 (Div. 2)",
         "url": "https://atcoder.jp/contests/arc211",
@@ -72,7 +64,7 @@
         "duration": 7200
     },
     {
-        "id": "b9131dbaeac44723a1840da33d856eaf",
+        "id": "9ccc8550d3584ee290b48a026d4bf28a",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 435",
         "url": "https://atcoder.jp/contests/abc435",
@@ -80,7 +72,7 @@
         "duration": 6000
     },
     {
-        "id": "88a7514c8aa8479fbf6d82d17dedf828",
+        "id": "f7b677c2b9354d93b4b9027a37f40272",
         "platform": "Codeforces",
         "title": "Educational Codeforces Round 185 (Rated for Div. 2)",
         "url": "https://codeforces.com/contests/2170",
@@ -88,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "97afbfa5099a4e1daf5a471267582685",
+        "id": "3d0e58848a7d4fbebea8568400f36e80",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2157",
@@ -96,7 +88,7 @@
         "duration": 10800
     },
     {
-        "id": "0e83a62b4db943d78a70c9713c1f3782",
+        "id": "78f90c4eafee4ed485a6d06f09488958",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2165",
@@ -104,7 +96,7 @@
         "duration": 7200
     },
     {
-        "id": "3e046626da1242bea2430402bd96261b",
+        "id": "59e04165d6694c9f8eda7f1211d23f47",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2166",
@@ -112,7 +104,7 @@
         "duration": 7200
     },
     {
-        "id": "c988fa9795274f619d21b5bcaf9fd7c2",
+        "id": "ca948a3f49664dde99645e2e39e49505",
         "platform": "Codeforces",
         "title": "Educational Codeforces Round 184 (Rated for Div. 2)",
         "url": "https://codeforces.com/contests/2169",
@@ -120,7 +112,7 @@
         "duration": 7200
     },
     {
-        "id": "04bd66a80019470c98836a1ae74ead99",
+        "id": "5f335b6a14a74181912d4f97939ba631",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2163",
@@ -128,7 +120,23 @@
         "duration": 7200
     },
     {
-        "id": "447cf56ab15743dc873af1c27ee29a96",
+        "id": "10d342c22b0c499aa6ffe48097ffe545",
+        "platform": "LeetCode",
+        "title": "Biweekly Contest 170",
+        "url": "https://leetcode.com/contest/biweekly-contest-170",
+        "start_time": "2025-11-22T20:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "4567b258c17647869a7ad8e4f18d9e57",
+        "platform": "LeetCode",
+        "title": "Weekly Contest 476",
+        "url": "https://leetcode.com/contest/weekly-contest-476",
+        "start_time": "2025-11-16T08:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "6b9ad2df6de746ec929e960a89e55a97",
         "platform": "LeetCode",
         "title": "Weekly Contest 475",
         "url": "https://leetcode.com/contest/weekly-contest-475",
@@ -136,7 +144,7 @@
         "duration": 5400
     },
     {
-        "id": "af18cfe4697d4738b2efa93a3a384163",
+        "id": "cc18322c37d94a86b38b2d4afdffdba2",
         "platform": "LeetCode",
         "title": "Biweekly Contest 169",
         "url": "https://leetcode.com/contest/biweekly-contest-169",
