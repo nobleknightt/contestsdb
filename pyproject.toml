@@ -1,0 +1,11 @@
+[project]
+name = "contestsdb"
+version = "0.1.0"
+description = "A database for https://github.com/nobleknightt/contests"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "requests>=2.33.1",
+    "tzdata>=2026.1",
+]
