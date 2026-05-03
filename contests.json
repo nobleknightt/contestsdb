@@ -1,14 +1,6 @@
 [
     {
-        "id": "3ac90fe49b804c3c9a784b2998c0f1cb",
-        "platform": "AtCoder",
-        "title": "AtCoder Beginner Contest 456",
-        "url": "https://atcoder.jp/contests/abc456",
-        "start_time": "2026-05-02T17:30:00+05:30",
-        "duration": 6000
-    },
-    {
-        "id": "3f7b8f4fb7564e9aad9bc6c4b180924b",
+        "id": "38d45260b4e94dd8b828f41c1caee9d4",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 218",
         "url": "https://atcoder.jp/contests/arc218",
@@ -16,7 +8,7 @@
         "duration": 7200
     },
     {
-        "id": "2c2d899ad4ac4b1cadb1446657715941",
+        "id": "b40df0aa0ad84936bfdde5e224be06cd",
         "platform": "AtCoder",
         "title": "Next DP Contest",
         "url": "https://atcoder.jp/contests/ndpc",
@@ -24,7 +16,7 @@
         "duration": 18000
     },
     {
-        "id": "dcfdeeb53509426e97e689e2866eee87",
+        "id": "d7c78e44ccda4d8898cd643a4f0ab21b",
         "platform": "AtCoder",
         "title": "Polaris.AI Programming Contest 2026(AtCoder Beginner Contest 457)",
         "url": "https://atcoder.jp/contests/abc457",
@@ -32,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "b47e2838dc3d480f91a473865a535c9f",
+        "id": "a042f7aeb0344276aad5eae34d73b0f1",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest-- 219",
         "url": "https://atcoder.jp/contests/arc219",
@@ -40,7 +32,7 @@
         "duration": 7200
     },
     {
-        "id": "dc6d7e33c1d7434bad420ed24754771a",
+        "id": "9726436b01574a91932d18082704470b",
         "platform": "AtCoder",
         "title": "AtCoder Heuristic Contest 065",
         "url": "https://atcoder.jp/contests/ahc065",
@@ -48,7 +40,7 @@
         "duration": 14400
     },
     {
-        "id": "a0f68f4e1f054b52acf98717228e568f",
+        "id": "9dcfc9a48fff447fbc3bb3f773ffc475",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest++ 220",
         "url": "https://atcoder.jp/contests/arc220",
@@ -56,7 +48,7 @@
         "duration": 7200
     },
     {
-        "id": "af19d8197141474c9f7ca3bf1be57693",
+        "id": "fb5e983df5414333b2788515844f705e",
         "platform": "AtCoder",
         "title": "Tokio Marine & Nichido Fire Insurance Programming Contest 2026  (AtCoder Beginner Contest 459)",
         "url": "https://atcoder.jp/contests/abc459",
@@ -64,7 +56,7 @@
         "duration": 6000
     },
     {
-        "id": "3347821f286e47c8b3df69a35bebfd28",
+        "id": "345d898c2bf14683a1ed85435f5e8b99",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest++ 221",
         "url": "https://atcoder.jp/contests/arc221",
@@ -72,7 +64,7 @@
         "duration": 9000
     },
     {
-        "id": "7649070d5cdf4162a39b2b161826384b",
+        "id": "e95d1c96d9c449e7a2b75b0392ff2844",
         "platform": "AtCoder",
         "title": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
         "url": "https://atcoder.jp/contests/abc462",
@@ -80,7 +72,7 @@
         "duration": 6000
     },
     {
-        "id": "6cf18e22af604cbbbea3671da5015c43",
+        "id": "fc90b103f70f4a1dada6b582c5f74465",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 222",
         "url": "https://atcoder.jp/contests/arc222",
@@ -88,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "ea8d56d8741a44e1a8c8fadb6a0a3aff",
+        "id": "4a249f6864564e53983c749c59bc5f41",
         "platform": "AtCoder",
         "title": "\u7b2c\u4e03\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29\uff5eAdvance\uff5e -\u4e88\u9078- (AtCoder Beginner Contest 464)",
         "url": "https://atcoder.jp/contests/abc464",
@@ -96,7 +88,7 @@
         "duration": 6000
     },
     {
-        "id": "e1cd830380a5453da09d2398589668eb",
+        "id": "07d4e198f917458894ca70c496406c48",
         "platform": "CodeChef",
         "title": "Weekend Dev Challenge 48: Golang Projects",
         "url": "https://www.codechef.com/DEVWEEKEND48",
@@ -104,7 +96,7 @@
         "duration": 172800
     },
     {
-        "id": "32aa77cc567847d3a77bd21eb0b08217",
+        "id": "caa98de4b6c9420cabd495a6c85c4fe4",
         "platform": "CodeChef",
         "title": "Monday Munch - DSA Challenge 001 (Rated)",
         "url": "https://www.codechef.com/DSAMONDAY001",
@@ -112,7 +104,7 @@
         "duration": 10800
     },
     {
-        "id": "ebd6a5bd2c5e42478fba9949ce156f06",
+        "id": "0f438251d91345cfa103fe1a66b8c409",
         "platform": "CodeChef",
         "title": "Starters 237",
         "url": "https://www.codechef.com/START237",
@@ -120,7 +112,7 @@
         "duration": 7200
     },
     {
-        "id": "a63cbef59f4d43e5b7a36374b457194b",
+        "id": "92f52b768afe4d25b35bb74a033d4115",
         "platform": "CodeChef",
         "title": "Starters 238",
         "url": "https://www.codechef.com/START238",
@@ -128,7 +120,7 @@
         "duration": 7200
     },
     {
-        "id": "49b5608bd8af40d09708fbdd417b5d37",
+        "id": "5fcfd96bfd64469baa31baf8497d7137",
         "platform": "CodeChef",
         "title": "Starters 239",
         "url": "https://www.codechef.com/START239",
@@ -136,7 +128,7 @@
         "duration": 7200
     },
     {
-        "id": "1c573a443069492487b8aa356f66472c",
+        "id": "723c03afb1cd479c973ca2f418f4fd8f",
         "platform": "CodeChef",
         "title": "Starters 240",
         "url": "https://www.codechef.com/START240",
@@ -144,7 +136,7 @@
         "duration": 7200
     },
     {
-        "id": "69b0535b7844457d85236d6d9306d6d5",
+        "id": "7b0f3d1ce48e4541ad0275a88df6cc53",
         "platform": "Codeforces",
         "title": "Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2229",
@@ -152,7 +144,7 @@
         "duration": 10800
     },
     {
-        "id": "a8d86f9f651f467bbe843ca1a5172b16",
+        "id": "f9afa4b6f5a14a8586c0de1384d174eb",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2228",
@@ -160,7 +152,7 @@
         "duration": 7200
     },
     {
-        "id": "83cc69d1582a47f58679a3722b0a9d59",
+        "id": "dec98697ca5647ada06d8f0c90f397cb",
         "platform": "Codeforces",
         "title": "Codeforces Round 1097 (Div. 1,  Based on Zhili Cup 2026)",
         "url": "https://codeforces.com/contests/2223",
@@ -168,7 +160,7 @@
         "duration": 9000
     },
     {
-        "id": "64e1c52bb4a540538fd182f9c821bbee",
+        "id": "521831479a164796930374d504dac312",
         "platform": "Codeforces",
         "title": "Codeforces Round 1097 (Div. 2,  Based on Zhili Cup 2026)",
         "url": "https://codeforces.com/contests/2224",
@@ -176,7 +168,7 @@
         "duration": 9000
     },
     {
-        "id": "ea0a41a93bcc4daba7d1c4dbd83072f8",
+        "id": "c1fdad5242304aa9a089ed19a59b5d09",
         "platform": "GeeksforGeeks",
         "title": "Syntax Clash",
         "url": "https://practice.geeksforgeeks.org/contest/syntax-clash",
@@ -184,19 +176,19 @@
         "duration": 5400
     },
     {
-        "id": "434f8b5ea85d4d689a14d7a10430ea60",
+        "id": "a9c4e03b3c924e67a223ff3aaf1d6a7a",
+        "platform": "LeetCode",
+        "title": "Weekly Contest 501",
+        "url": "https://leetcode.com/contest/weekly-contest-501",
+        "start_time": "2026-05-10T08:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "c5250087763442a987598198b3d6f7d8",
         "platform": "LeetCode",
         "title": "Biweekly Contest 182",
         "url": "https://leetcode.com/contest/biweekly-contest-182",
         "start_time": "2026-05-09T20:00:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "1a949c5f2887479cbebf5572203788a4",
-        "platform": "LeetCode",
-        "title": "Weekly Contest 500",
-        "url": "https://leetcode.com/contest/weekly-contest-500",
-        "start_time": "2026-05-03T08:00:00+05:30",
         "duration": 5400
     }
 ]
