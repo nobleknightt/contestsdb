@@ -1,6 +1,6 @@
 [
     {
-        "id": "6535bdc50ffe416693b8619c04c8fff4",
+        "id": "9828f9ef1d144023918e005a1fdfd3d0",
         "platform": "AtCoder",
         "title": "estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
         "url": "https://atcoder.jp/contests/ahc068",
@@ -8,7 +8,7 @@
         "duration": 14400
     },
     {
-        "id": "8f81ad23f22b4e01b9cd276759b27dd5",
+        "id": "4838cbd5cd50415cb98bd03f806e2ca5",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 467",
         "url": "https://atcoder.jp/contests/abc467",
@@ -16,7 +16,7 @@
         "duration": 6000
     },
     {
-        "id": "6d03dfd436284d258380591376b50bda",
+        "id": "95846730414b43e187002a296ddda3e0",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 225",
         "url": "https://atcoder.jp/contests/arc225",
@@ -24,7 +24,7 @@
         "duration": 7200
     },
     {
-        "id": "60bddd652eee40368b083fb707795013",
+        "id": "4d0b73fff93b4def847eaeabb9400196",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 468",
         "url": "https://atcoder.jp/contests/abc468",
@@ -32,7 +32,7 @@
         "duration": 6000
     },
     {
-        "id": "e779352dde1748f3bbf724c5af5efe60",
+        "id": "f22a657dc1be4741898f1ccc516c2312",
         "platform": "AtCoder",
         "title": "RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
         "url": "https://atcoder.jp/contests/ahc069",
@@ -40,7 +40,7 @@
         "duration": 864000
     },
     {
-        "id": "63cb1aa54ed4422fba897dcd4317af51",
+        "id": "4f7b7f3bf43e4157816c004bb254f414",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 469",
         "url": "https://atcoder.jp/contests/abc469",
@@ -48,7 +48,7 @@
         "duration": 6000
     },
     {
-        "id": "ce723440110944159956f6cc48c62e7b",
+        "id": "7524a203c6ac4e1b99baab0918bf1982",
         "platform": "AtCoder",
         "title": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
         "url": "https://atcoder.jp/contests/arc226",
@@ -56,7 +56,7 @@
         "duration": 7200
     },
     {
-        "id": "3a06592f5d31434590c5699936d0d236",
+        "id": "6d905969175e48a5bd9ad853e618ea4d",
         "platform": "CodeChef",
         "title": "Starters 247",
         "url": "https://www.codechef.com/START247",
@@ -64,7 +64,15 @@
         "duration": 7200
     },
     {
-        "id": "b10232a738d1452b8e1e67416d77b8a7",
+        "id": "73030bfde3cc42558cac385e169a49b2",
+        "platform": "CodeChef",
+        "title": "Weekend Dev Challenge 59: LLD Projects",
+        "url": "https://www.codechef.com/DEVWEEKEND59",
+        "start_time": "2026-07-18T00:00:00+05:30",
+        "duration": 172800
+    },
+    {
+        "id": "89a861c510834e81abfb753d597cfbcc",
         "platform": "CodeChef",
         "title": "Starters 248",
         "url": "https://www.codechef.com/START248",
@@ -72,7 +80,7 @@
         "duration": 7200
     },
     {
-        "id": "00237df1be47444890aa5e2bee07d78a",
+        "id": "3b09cb7e49d2489f84679cbab9307d94",
         "platform": "CodeChef",
         "title": "Starters 249",
         "url": "https://www.codechef.com/START249",
@@ -80,7 +88,7 @@
         "duration": 7200
     },
     {
-        "id": "6d5b57272bb44322856c6663c5dcea80",
+        "id": "2004a5091a204224b2a2ea66b06add38",
         "platform": "CodeChef",
         "title": "Placement Prep Weekends - 01",
         "url": "https://www.codechef.com/PLACEPREP01",
@@ -88,23 +96,23 @@
         "duration": 179940
     },
     {
-        "id": "87e997906acc4c04b2ca8d411c7d5008",
-        "platform": "CodeChef",
-        "title": "Starters 250",
-        "url": "https://www.codechef.com/START250",
-        "start_time": "2026-08-05T20:00:00+05:30",
+        "id": "38939ab015324797ad0839c90eef11c4",
+        "platform": "Codeforces",
+        "title": "Codeforces Round (Div. 2)",
+        "url": "https://codeforces.com/contests/2248",
+        "start_time": "2026-08-01T17:05:00+05:30",
         "duration": 7200
     },
     {
-        "id": "ca55ea5f737f4591aaf3c3a2fd9745af",
+        "id": "4056beba7b0740e89f58dc94d3ebfece",
         "platform": "Codeforces",
-        "title": "Codeforces Round (Div. 2)",
+        "title": "Codeforces Round 1111 (Div. 2)",
         "url": "https://codeforces.com/contests/2247",
         "start_time": "2026-07-18T20:05:00+05:30",
         "duration": 7200
     },
     {
-        "id": "2a57c20c62814d75a572b5200948146a",
+        "id": "32cc7604c8a041e4b2b191d343e6b0f5",
         "platform": "Codeforces",
         "title": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2245",
@@ -112,15 +120,7 @@
         "duration": 9000
     },
     {
-        "id": "e8a70e5e87404e83ad6559f69df91d5d",
-        "platform": "Codeforces",
-        "title": "Codeforces Round 1109 (Div. 3)",
-        "url": "https://codeforces.com/contests/2244",
-        "start_time": "2026-07-14T20:05:00+05:30",
-        "duration": 8100
-    },
-    {
-        "id": "9dbf75fc168d4034b90569a46eea7f7d",
+        "id": "854f7d14161743b0b4c1693232b05df5",
         "platform": "LeetCode",
         "title": "Weekly Contest 511",
         "url": "https://leetcode.com/contest/weekly-contest-511",
@@ -128,7 +128,7 @@
         "duration": 5400
     },
     {
-        "id": "a37d5cdebb48468989ade5306f99ac41",
+        "id": "77534153470c4e859e7062e42f2c5cc6",
         "platform": "LeetCode",
         "title": "Biweekly Contest 187",
         "url": "https://leetcode.com/contest/biweekly-contest-187",
