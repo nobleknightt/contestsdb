@@ -1,6 +1,6 @@
 [
     {
-        "id": "da6d0876e0ff43c1b16ba9dae7eaf2b4",
+        "id": "2b67eddf26a44bc2a90437fa04b5b246",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 472",
         "url": "https://atcoder.jp/contests/abc472",
@@ -8,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "f5df671fd14649d88ec61c153ec3085c",
+        "id": "a10cf3470c7e4eb99b38ff3fd4a9306e",
         "platform": "AtCoder",
         "title": "13th Asprova Programming Contest(AtCoder Heuristic Contest 070)",
         "url": "https://atcoder.jp/contests/ahc070",
@@ -16,7 +16,7 @@
         "duration": 14400
     },
     {
-        "id": "89c7f48ec81c45d984a9f6f3a214e043",
+        "id": "085c45eed8e64244b3ee15c1d7a216a2",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 473",
         "url": "https://atcoder.jp/contests/abc473",
@@ -24,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "a0dd87961d254c2f9f86b9b281cd06e9",
+        "id": "9f6533e4eeee47dcbad657d64c1b6747",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 474",
         "url": "https://atcoder.jp/contests/abc474",
@@ -32,7 +32,15 @@
         "duration": 6000
     },
     {
-        "id": "6467584dc37d47469e21724f1f4d8a8a",
+        "id": "b18ab7ef7c4a41528635e1d183de7576",
+        "platform": "Codeforces",
+        "title": "Codeforces Round (Div. 2)",
+        "url": "https://codeforces.com/contests/2258",
+        "start_time": "2026-08-29T20:05:00+05:30",
+        "duration": 7200
+    },
+    {
+        "id": "5c44ead0f24046f38849dff30888e40a",
         "platform": "Codeforces",
         "title": "ICPC 2026 Online Challenge 1 powered by Huawei",
         "url": "https://codeforces.com/contests/2251",
@@ -40,7 +48,7 @@
         "duration": 1209600
     },
     {
-        "id": "9760c93069fb44569b7cd4825ccf499e",
+        "id": "44ee9ee9334841c387286a5ee975fa5d",
         "platform": "LeetCode",
         "title": "Biweekly Contest 190",
         "url": "https://leetcode.com/contest/biweekly-contest-190",
@@ -48,7 +56,7 @@
         "duration": 5400
     },
     {
-        "id": "2903750558fe417aaa439ebac2985817",
+        "id": "e30c15d7766d40c9aa2eb1e45cf1eaf9",
         "platform": "LeetCode",
         "title": "Weekly Contest 516",
         "url": "https://leetcode.com/contest/weekly-contest-516",
