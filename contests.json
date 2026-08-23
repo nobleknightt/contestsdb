@@ -1,14 +1,6 @@
 [
     {
-        "id": "faaec63a266a45d08404fc20f36fb40d",
-        "platform": "AtCoder",
-        "title": "AtCoder Beginner Contest 472",
-        "url": "https://atcoder.jp/contests/abc472",
-        "start_time": "2026-08-22T17:30:00+05:30",
-        "duration": 6000
-    },
-    {
-        "id": "421c4ae546324b3d8ed417147b3ec929",
+        "id": "d288ae9007644fdfabe1469103f622ab",
         "platform": "AtCoder",
         "title": "13th Asprova Programming Contest(AtCoder Heuristic Contest 070)",
         "url": "https://atcoder.jp/contests/ahc070",
@@ -16,7 +8,7 @@
         "duration": 14400
     },
     {
-        "id": "afdd5b1e4d2348bd86ad295fd2bc0b99",
+        "id": "50afc19e2cd7471c9e06c2a47aebfd20",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 473",
         "url": "https://atcoder.jp/contests/abc473",
@@ -24,7 +16,7 @@
         "duration": 6000
     },
     {
-        "id": "df189bb07f5748e69d1d77315727056e",
+        "id": "80e83c7851314ea7a0cf1f42219e5987",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest++ 228",
         "url": "https://atcoder.jp/contests/arc228",
@@ -32,7 +24,7 @@
         "duration": 9000
     },
     {
-        "id": "0583291043014db39aad04157486779a",
+        "id": "643315b7084b430b920c269a083fcdb7",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest-- 229",
         "url": "https://atcoder.jp/contests/arc229",
@@ -40,7 +32,7 @@
         "duration": 7200
     },
     {
-        "id": "9d999b5da6c44fb2a15342143c099cf7",
+        "id": "275e342324c742d99c5989d330bccc93",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 474",
         "url": "https://atcoder.jp/contests/abc474",
@@ -48,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "0ac84caa44674c5e83de223f49cbac18",
+        "id": "a5ebea90b38e4e87ab9c9d8b7743344c",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 475",
         "url": "https://atcoder.jp/contests/abc475",
@@ -56,7 +48,7 @@
         "duration": 6000
     },
     {
-        "id": "5158a291ab8c4ba78017dd8de853b87a",
+        "id": "91d2edc6a4344cc78241d1767348a406",
         "platform": "AtCoder",
         "title": "AtCoder Heuristic Contest 071",
         "url": "https://atcoder.jp/contests/ahc071",
@@ -64,7 +56,15 @@
         "duration": 14400
     },
     {
-        "id": "504ba39793f944a2adf2e1ac7449f09e",
+        "id": "f28cb95e4bb8422284ed1ef136438cf0",
+        "platform": "AtCoder",
+        "title": "AtCoder Regular Contest++ 230",
+        "url": "https://atcoder.jp/contests/arc230",
+        "start_time": "2026-09-20T17:30:00+05:30",
+        "duration": 9000
+    },
+    {
+        "id": "1cdd86d9e1734eab99a40d1577dc850a",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2258",
@@ -72,7 +72,7 @@
         "duration": 7200
     },
     {
-        "id": "b3db9f312bec4e9593257a8fda06faa1",
+        "id": "fcd5ce0a4b994d02884132c5bdb92a3b",
         "platform": "Codeforces",
         "title": "ICPC 2026 Online Challenge 1 powered by Huawei",
         "url": "https://codeforces.com/contests/2251",
@@ -80,19 +80,19 @@
         "duration": 1209600
     },
     {
-        "id": "8d6bb055cd9e4c7c82b883a54ca99268",
+        "id": "8d5458167caa44ce9870322a0bd2d421",
+        "platform": "LeetCode",
+        "title": "Weekly Contest 517",
+        "url": "https://leetcode.com/contest/weekly-contest-517",
+        "start_time": "2026-08-30T08:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "da1f785390ea4f6cad55b19bf23a737c",
         "platform": "LeetCode",
         "title": "Biweekly Contest 190",
         "url": "https://leetcode.com/contest/biweekly-contest-190",
         "start_time": "2026-08-29T20:00:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "756c1ba82d2246198e5b244f017f39bf",
-        "platform": "LeetCode",
-        "title": "Weekly Contest 516",
-        "url": "https://leetcode.com/contest/weekly-contest-516",
-        "start_time": "2026-08-23T08:00:00+05:30",
         "duration": 5400
     }
 ]
